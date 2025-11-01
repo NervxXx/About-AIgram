@@ -83,6 +83,7 @@ const Tools = () => {
             </p>
           </div>
           
+          
           <div className="flex flex-col md:flex-row gap-4 items-center animate-fade-in animation-delay-200">
             <div className="relative w-full md:w-1/2">
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" size={18} />
